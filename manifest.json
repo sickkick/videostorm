@@ -4,7 +4,7 @@
     "codeowners": [
       "@sickkick"
     ],
-    "documentation": "https://www.home-assistant.io/integrations/video_storm",
+    "documentation": "https://github.com/sickkick/videostorm",
     "iot_class": "assumed_state",
     "requirements": [],
     "version": "0.1.0"

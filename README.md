@@ -1,6 +1,4 @@
-# Video Storm IrUsb for FireStick control
-
-Video Storm for Home Assistant.
+# Video Storm IrUsb for FireStick control for Home Assistant
 https://www.video-storm.com/proddetail.php?prod=IRUSB
 
 ![Logo](https://www.video-storm.com/prodimages/uwaveCableSm.jpg)
